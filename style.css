@@ -100,7 +100,7 @@ h2:before {
     color: #fff;
 }
 .preview{
-	background: url('/image/index-bg-2.jpg');
+	background: url('image/index-bg-2.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	width: 100%;
